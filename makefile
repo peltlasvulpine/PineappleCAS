@@ -2,9 +2,9 @@
 # Makefile Options
 # ----------------------------
 
-NAME         = PCAS
+NAME         = APCAS
 COMPRESSED   = YES
-ICON         = iconc.png
+ICON         = icon.png
 DESCRIPTION  = "PineappleCAS"
 
 CFLAGS       = -Wall -Oz
